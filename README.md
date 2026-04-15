@@ -70,7 +70,7 @@ Create `.env` file:
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=your_password
-DB_NAME=toko_bobby
+DB_NAME=ecommerce_flutter
 PORT=3000
 ```
 
